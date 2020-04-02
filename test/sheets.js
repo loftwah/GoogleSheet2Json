@@ -1,5 +1,5 @@
-var Tabletop = require("../dist/tabletop");
-var TabletopMin = require("../dist/tabletop.min");
+var Tabletop = require("../dist/gsheet2json");
+var TabletopMin = require("../dist/gsheet2json.min");
 var assert = require("assert");
 
 var sheets = {
