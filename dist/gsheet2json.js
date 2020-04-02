@@ -1,4 +1,4 @@
-/*! gsheet2json v2.0.0 | (c) 2020  | MIT License | https://github.com/Puzzlout/GoogleSheet2Json.git */
+/*! gsheet2json v1.0.0 | (c) 2020  | MIT License | https://github.com/Puzzlout/GoogleSheet2Json.git */
 (function() {
   "use strict";
 

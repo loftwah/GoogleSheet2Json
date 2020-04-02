@@ -1,7 +1,7 @@
 {
   "name": "gsheet2json",
-  "version": "2.0.0",
-  "description": "**GoogleSheet2Json** takes a Google Spreadsheet and makes it easily accessible through JavaScript. With zero dependencies!",
+  "version": "1.0.0",
+  "description": "GoogleSheet2Json takes a Google Spreadsheet and makes it easily accessible through JavaScript. With zero dependencies!",
   "main": "src/tabletop.js",
   "directories": {
     "example": "examples"
