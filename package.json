@@ -1,21 +1,20 @@
 {
-  "name": "gsheet2json",
+  "name": "gsheets2json",
   "version": "1.0.0",
   "description": "GoogleSheet2Json takes a Google Spreadsheet and makes it easily accessible through JavaScript. With zero dependencies!",
   "main": "src/tabletop.js",
   "directories": {
-    "example": "examples"
+    "test": "test"
   },
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha --timeout 10000"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Puzzlout/GoogleSheet2Json.git"
+    "url": "git+https://github.com/Puzzlout/GoogleSheet2Json.git"
   },
   "author": "Jeremie Litzler <puzzlout@gmail.com>",
   "license": "MIT",
-  "readmeFilename": "README.md",
   "devDependencies": {
     "autoprefixer": "^9.7.5",
     "browser-sync": "^2.26.7",
@@ -43,5 +42,16 @@
   },
   "engines": {
     "node": ">=0.10.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Puzzlout/GoogleSheet2Json/issues"
+  },
+  "homepage": "https://github.com/Puzzlout/GoogleSheet2Json#readme",
+  "keywords": [
+    "google",
+    "sheets",
+    "json",
+    "javacript",
+    "tabletop"
+  ]
 }
